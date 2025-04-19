@@ -139,5 +139,24 @@
 //    }
 //}
 
+//LINQ basic
+
+//int[] numbers = { 1, 2, 3, 4, 5, };
+//var result=numbers.Where(x => x % 2 == 0);
+//foreach (int v in result)
+//{
+//    Console.WriteLine(v);
+//}
+
+//int[] str = { };
+//int result=str.FirstOrDefault();
+//Console.WriteLine(result);
+
+
+
+
+
+
+
 
 
