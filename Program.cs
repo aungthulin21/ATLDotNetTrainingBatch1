@@ -152,6 +152,18 @@
 //int result=str.FirstOrDefault();
 //Console.WriteLine(result);
 
+//file
+//File.WriteAllText("test.txt", "Hello World");
+//string result = File.ReadAllText("test.txt");
+//Console.WriteLine(result);
+
+//Number
+//decimal amount = 1000000.90m;
+//Console.WriteLine(amount.ToString("n2"));
+
+//DateTime now= DateTime.Now;
+//Console.WriteLine(now.ToString("yyyy-MM-dd"));
+
 
 
 
