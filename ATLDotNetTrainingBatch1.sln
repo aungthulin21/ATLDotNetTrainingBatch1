@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATLDotNetTrainingBatch1", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATLDotNetTraingBatch1.ConsoleApp1", "..\ATLDotNetTraingBatch1.ConsoleApp1\ATLDotNetTraingBatch1.ConsoleApp1.csproj", "{0BF96B41-4447-4028-9B06-4AE814195085}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATLDotNetTraingBatch1.WinFormsApp1", "..\ATLDotNetTraingBatch1.WinFormsApp1\ATLDotNetTraingBatch1.WinFormsApp1.csproj", "{43BABD79-4772-4597-B535-9892BA768695}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0BF96B41-4447-4028-9B06-4AE814195085}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BF96B41-4447-4028-9B06-4AE814195085}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BF96B41-4447-4028-9B06-4AE814195085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43BABD79-4772-4597-B535-9892BA768695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BABD79-4772-4597-B535-9892BA768695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BABD79-4772-4597-B535-9892BA768695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BABD79-4772-4597-B535-9892BA768695}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
