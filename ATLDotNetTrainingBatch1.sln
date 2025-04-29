@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35521.163 d17.12
+VisualStudioVersion = 17.12.35521.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATLDotNetTrainingBatch1", "ATLDotNetTrainingBatch1.csproj", "{73F622E7-24B0-4766-983F-ED8E57CFC776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATLDotNetTraingBatch1.ConsoleApp1", "..\ATLDotNetTraingBatch1.ConsoleApp1\ATLDotNetTraingBatch1.ConsoleApp1.csproj", "{0BF96B41-4447-4028-9B06-4AE814195085}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{73F622E7-24B0-4766-983F-ED8E57CFC776}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73F622E7-24B0-4766-983F-ED8E57CFC776}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73F622E7-24B0-4766-983F-ED8E57CFC776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF96B41-4447-4028-9B06-4AE814195085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF96B41-4447-4028-9B06-4AE814195085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF96B41-4447-4028-9B06-4AE814195085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF96B41-4447-4028-9B06-4AE814195085}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
